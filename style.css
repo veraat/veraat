@@ -1,0 +1,29 @@
+body{
+    text-align:center ;
+    background-color:yellow;
+    }
+.ibox{
+background-color:black;
+color:white;
+margin-top:20px;
+}
+#ADD{
+margin-top:20px;
+background-color: white;
+}
+
+#SUB {
+    margin-left: 20px;
+    background-color: white;
+
+}
+
+#MUL {
+    margin-left: 20px;
+    background-color: white;
+}
+
+#DIV {
+    margin-left: 20px;
+    background-color: white;
+}
