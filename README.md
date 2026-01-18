@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a project for the CBSE Science Exhibition.<br><br>👯 I'm looking to collaborate on any project.<br><br>🤝 I'm seeking help with algorithms.<br><br>🌱 I'm currently learning data structures.<br><br>💬 Ask me about anything.<br><br>⚡ Fun fact: I'm just 14.
+🔭 I'm currently working on a project for the CBSE Science Exhibition.<br><br>👯 I'm looking to collaborate on any project.<br><br>🤝 I'm seeking help with algorithms.<br><br>🌱 I'm currently learning data structures.<br><br>💬 Ask me about anything.<br><br>⚡ Fun fact: I'm just 16.
 
 
 ## 🌐 Socials:
